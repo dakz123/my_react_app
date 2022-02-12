@@ -1,0 +1,1 @@
+export default{BASIC_BACKGROUND:'#F5F7FA'}
